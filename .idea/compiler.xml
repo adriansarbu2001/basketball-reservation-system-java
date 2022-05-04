@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="BasketballPersistence" target="16" />
+      <module name="BasketballPersistence.main" target="16" />
+      <module name="BasketballPersistence.test" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

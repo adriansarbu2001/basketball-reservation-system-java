@@ -1,0 +1,9 @@
+rootProject.name = 'BasketballReservationSystem'
+include 'BasketballClientFX'
+include 'BasketballModel'
+include 'BasketballModel'
+include 'BasketballNetworking'
+include 'BasketballPersistence'
+include 'BasketballServer'
+include 'BasketballServices'
+

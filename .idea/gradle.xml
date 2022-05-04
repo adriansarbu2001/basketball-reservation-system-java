@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/BasketballReservationSystem" />
+        <option name="gradleJvm" value="corretto-16" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/BasketballReservationSystem" />
+            <option value="$PROJECT_DIR$/BasketballReservationSystem/BasketballClientFX" />
+            <option value="$PROJECT_DIR$/BasketballReservationSystem/BasketballModel" />
+            <option value="$PROJECT_DIR$/BasketballReservationSystem/BasketballNetworking" />
+            <option value="$PROJECT_DIR$/BasketballReservationSystem/BasketballPersistence" />
+            <option value="$PROJECT_DIR$/BasketballReservationSystem/BasketballServer" />
+            <option value="$PROJECT_DIR$/BasketballReservationSystem/BasketballServices" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
