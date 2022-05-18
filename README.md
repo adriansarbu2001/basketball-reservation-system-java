@@ -1,7 +1,7 @@
 # basketball-reservation-system-java
 
 ## About:
-- A system for selling tickets at a basketball competition made with java
+- A system for selling tickets at a basketball competition made with Java
 without using any server-client tools.
 
 ## Stacks:
